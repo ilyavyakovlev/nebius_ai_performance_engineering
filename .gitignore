@@ -2,3 +2,6 @@ data
 dinos.txt
 output.txt
 dump*
+
+# Windows alternate-data-stream metadata (from downloaded files)
+*:Zone.Identifier
